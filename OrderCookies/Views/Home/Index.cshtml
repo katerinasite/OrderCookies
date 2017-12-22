@@ -1,0 +1,89 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@*<div class="row">
+        <div class="col-md-4">
+            <h2>Getting started</h2>
+            <p>
+                ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+                enables a clean separation of concerns and gives you full control over markup
+                for enjoyable, agile development.
+            </p>
+            <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Get more libraries</h2>
+            <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
+            <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>Web Hosting</h2>
+            <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
+            <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            @using (Html.BeginForm("My", "Home"))
+            {
+                <input type="text" id="CookiesId" name="CookiesId" />
+                <button type="submit"></button>
+            }
+        </div>
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+        </div>
+    </div>*@
+
+<div class="row">
+    <div class="col-sm-4 cookietype">
+        <img id="myImg" src="~/Content/image/1.jpg" />
+        <a href="~/Home/Cookie1">
+        <button id="btnInform" type="button">Подробнее</button>
+        </a>
+        @using (Html.BeginForm("MiddleOrderNew", "Home", FormMethod.Post, new { id = "cookie1" }))
+        {
+            <div class="number">
+                <button class="minus">-</button>
+                <input type="text" value="1" name="Number" id="Number" required pattern="^[0-9]+$" form="cookie1" />
+                <button class="plus">+</button>
+            </div>
+            <input type="hidden" name="CookiesId" id="CookiesId" value="1" form="cookie1" />
+            <button class="btnOrder" type="submit">Добавить в корзину</button>
+          
+        }
+    </div>
+    <div class="col-sm-4 cookietype">
+        <img id="myImg" src="~/Content/image/2.jpg" />
+        <button id="btnInform" type="button">Подробнее</button>
+        @using (Html.BeginForm("MiddleOrderNew", "Home", FormMethod.Post, new { id = "cookie2" }))
+        {
+            <input type="hidden" name="CookiesId" id="CookiesId" value="2" form="cookie2" />
+            <input type="text" name="Number" id="Number" required pattern="^[0-9]+$" form="cookie2" />
+            <button id="btnOrder" type="submit">Заказать</button>
+        }
+    </div>
+    <div class="col-sm-4 cookietype">
+        <img id="myImg" src="~/Content/image/3.jpg" />
+        <button id="btnInform" type="button">Подробнее</button>
+        @using (Html.BeginForm("MiddleOrderNew", "Home", FormMethod.Post, new { id = "cookie3" }))
+        {
+            <input type="hidden" name="CookiesId" id="CookiesId" value="3" form="cookie3" />
+            <input type="text" name="Number" id="Number" required pattern="^[0-9]+$" form="cookie3" />
+            <button id="btnOrder" type="submit">Заказать</button>
+        }
+    </div>
+</div>
+
+
+    <div class="row">
+        <div class="col-sm-4">
+        </div>
+        <div class="col-sm-4">
+        </div>
+        <div class="col-sm-4">
+        </div>
+    </div>
+

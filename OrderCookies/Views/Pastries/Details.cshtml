@@ -1,0 +1,26 @@
+﻿@model OrderCookies.Models.Pastry
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pastry</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PastryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PastryName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PastryId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

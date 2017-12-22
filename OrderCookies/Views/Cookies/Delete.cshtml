@@ -1,0 +1,80 @@
+﻿@model OrderCookies.Models.Cookies
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Cookies</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CookieForm.CookieFormName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CookieForm.CookieFormName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CookieSize.CookieSizeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CookieSize.CookieSizeId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Filling.FillingName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Filling.FillingName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Glaze.GlazeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Glaze.GlazeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pastry.PastryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pastry.PastryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CookiesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CookiesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,69 @@
+﻿@model IEnumerable<OrderCookies.Models.Cookies>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CookieForm.CookieFormName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CookieSize.CookieSizeId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Filling.FillingName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Glaze.GlazeName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pastry.PastryName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CookiesName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CookieForm.CookieFormName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CookieSize.CookieSizeId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Filling.FillingName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Glaze.GlazeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pastry.PastryName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CookiesName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CookiesId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.CookiesId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CookiesId })
+        </td>
+    </tr>
+}
+
+</table>

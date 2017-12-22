@@ -1,0 +1,26 @@
+﻿@model OrderCookies.Models.Glaze
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Glaze</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GlazeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GlazeName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.GlazeId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

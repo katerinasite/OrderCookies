@@ -1,0 +1,26 @@
+﻿@model OrderCookies.Models.CookieForm
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CookieForm</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CookieFormName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CookieFormName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CookieFormId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

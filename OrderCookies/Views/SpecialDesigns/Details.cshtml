@@ -1,0 +1,26 @@
+﻿@model OrderCookies.Models.SpecialDesign
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SpecialDesign</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Design)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Design)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SpecialDesignId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

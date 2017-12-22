@@ -1,0 +1,26 @@
+﻿@model OrderCookies.Models.Filling
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Filling</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FillingName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FillingName)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.FillingId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,11 @@
+﻿@model OrderCookies.Models.ModelForMiddleOrder
+@using (Html.BeginForm("MiddleOrderNew", "Home"))
+{
+<form>
+    <input type="text" name="CookieId" id="CookieId" hidden value="@Model.CookieId"/>
+    <input type="text" name="Number" id="Number" />
+    <input type="submit" />
+</form>
+  
+}
+

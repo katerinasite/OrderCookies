@@ -1,0 +1,33 @@
+﻿@model IEnumerable<OrderCookies.Models.SpecialDesign>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Design)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Design)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.SpecialDesignId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.SpecialDesignId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.SpecialDesignId })
+        </td>
+    </tr>
+}
+
+</table>

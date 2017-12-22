@@ -1,0 +1,74 @@
+﻿@model OrderCookies.Models.Cookies
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Cookies</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CookieForm.CookieFormName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CookieForm.CookieFormName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CookieSize.CookieSizeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CookieSize.CookieSizeId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Filling.FillingName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Filling.FillingName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Glaze.GlazeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Glaze.GlazeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pastry.PastryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pastry.PastryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CookiesName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CookiesName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CookiesId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

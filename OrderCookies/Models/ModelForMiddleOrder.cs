@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace OrderCookies.Models
+{
+    public class ModelForMiddleOrder
+    {
+        public int CookieId { get; set; }
+        public int Number { get; set; }
+    }
+}
