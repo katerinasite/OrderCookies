@@ -76,6 +76,12 @@ namespace OrderCookies.Controllers
                     if (user.EmailConfirmed == true)
                     {
                         await SignInManager.SignInAsync(user, isPersistent: false, rememberBrowser: false);
+                        if (TempData["Model"] != null)
+                        {
+                            HomeController hm = new HomeController();
+                            MiddleOrder middle = (MiddleOrder)TempData["Model"];
+                            hm.MiddleOrder(middle, model.Email);
+                        }
                         return RedirectToLocal(returnUrl);
                     }
                     else

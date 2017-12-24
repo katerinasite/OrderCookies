@@ -11,6 +11,7 @@ namespace OrderCookies.Controllers
     {
         public ActionResult Index()
         {
+            TempData["Model"] = null;
             return View();
         }
 
@@ -42,7 +43,7 @@ namespace OrderCookies.Controllers
                 TempData["Model"] = model;
                 return RedirectToAction("Login", "Account", new { returnurl = "/Home/Index" });
             }
-            MiddleOrder(model);
+            MiddleOrder(model, User.Identity.Name);
             return View();
         }
         public ActionResult Cookie1()
@@ -50,7 +51,7 @@ namespace OrderCookies.Controllers
             return View();
         }
         
-        public void MiddleOrder(MiddleOrder model)
+        public void MiddleOrder(MiddleOrder model, string username)
         {
             ApplicationDbContext context = new ApplicationDbContext();
             FinalOrder finalOrder = new FinalOrder();
@@ -58,7 +59,7 @@ namespace OrderCookies.Controllers
             List<ApplicationUser> listuser = context.Users.ToList();
             List<FinalOrder> listfo = context.FinalOrders.ToList();
             FinalOrder lastfinal = listfo.Last();
-            ApplicationUser user = listuser.Find(m => m.Email.Equals(User.Identity.Name));
+            ApplicationUser user = listuser.Find(m => m.Email.Equals(username));
             finalOrder.ApplicationUserId = user.Id;
             finalOrder.FinalAmount = 0;
             finalOrder.IsConfirmed = false;

@@ -39,10 +39,12 @@
 
 <div class="row">
     <div class="col-sm-4 cookietype">
-        <img id="myImg" src="~/Content/image/1.jpg" />
-        <a href="~/Home/Cookie1">
-        <button id="btnInform" type="button">Подробнее</button>
-        </a>
+        <div class="ImgHover">
+            <img id="myImg" src="~/Content/image/1.jpg" />
+            <a href="~/Home/Cookie1">
+                <button id="btnInform" type="button">Подробнее</button>
+            </a>
+        </div>
         @using (Html.BeginForm("MiddleOrderNew", "Home", FormMethod.Post, new { id = "cookie1" }))
         {
             <div class="number">

@@ -44,8 +44,8 @@ textarea {
 #myImg {
     width: 100%;
     float: right;
-    margin-left: 15px;
-    margin-bottom: 10px;
+    /* margin-left: 15px; */
+    /* margin-bottom: 10px; */
 }
 
 .btnOrder {
@@ -154,3 +154,28 @@ footer {
 .number {
     display: inline-block;
 }
+
+.ImgHover:hover #myImg {
+    filter: alpha (Opacity=25);
+    opacity: 0.25;
+}
+
+.ImgHover {
+    display: block;
+}
+
+    .ImgHover button {
+        display: none;
+        position: absolute;
+        margin: 0 !important;
+        top: calc(50% - 40px);
+        right: calc(50% - 40px);
+    }
+
+    .ImgHover:hover button {
+        display: block;
+    }
+
+        .ImgHover:hover button ~ .ImgHover button:hover {
+            display: block;
+        }
