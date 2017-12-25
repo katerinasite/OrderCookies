@@ -44,13 +44,18 @@ namespace OrderCookies.Controllers
                 return RedirectToAction("Login", "Account", new { returnurl = "/Home/Index" });
             }
             MiddleOrder(model, User.Identity.Name);
-            return View();
+            return View("Index");
         }
         public ActionResult Cookie1()
         {
             return View();
         }
-        
+
+        public ActionResult Cookie2()
+        {
+            return View();
+        }
+
         public void MiddleOrder(MiddleOrder model, string username)
         {
             ApplicationDbContext context = new ApplicationDbContext();
@@ -65,14 +70,14 @@ namespace OrderCookies.Controllers
             finalOrder.IsConfirmed = false;
             finalOrder.FinalOrderId = lastfinal.FinalOrderId + 1;
 
-            context.FinalOrders.Add(finalOrder); 
-            
+            context.FinalOrders.Add(finalOrder);
+
             MiddleOrder middleOrder = new MiddleOrder();
             middleOrder.FinalOrderId = finalOrder.FinalOrderId;
             middleOrder.CookiesId = model.CookiesId;
             middleOrder.Number = model.Number;
             middleOrder.MiddleAmount = 0;
-                       
+
             context.MiddleOrders.Add(middleOrder);
             context.SaveChanges();
         }

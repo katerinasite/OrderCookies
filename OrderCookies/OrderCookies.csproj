@@ -216,6 +216,14 @@
     <Compile Include="Migrations\201712150601342_MyMig.Designer.cs">
       <DependentUpon>201712150601342_MyMig.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201712241249134_MyMig1.cs" />
+    <Compile Include="Migrations\201712241249134_MyMig1.Designer.cs">
+      <DependentUpon>201712241249134_MyMig1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201712250453187_MyMig2.cs" />
+    <Compile Include="Migrations\201712250453187_MyMig2.Designer.cs">
+      <DependentUpon>201712250453187_MyMig2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Cookies.cs" />
@@ -341,6 +349,7 @@
     <Content Include="Views\Home\MY.cshtml" />
     <Content Include="Views\Home\ShowMiddleOrder.cshtml" />
     <Content Include="Views\Home\Cookie1.cshtml" />
+    <Content Include="Views\Home\Cookie2.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -368,6 +377,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201712150601342_MyMig.resx">
       <DependentUpon>201712150601342_MyMig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712241249134_MyMig1.resx">
+      <DependentUpon>201712241249134_MyMig1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201712250453187_MyMig2.resx">
+      <DependentUpon>201712250453187_MyMig2.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

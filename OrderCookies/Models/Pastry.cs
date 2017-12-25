@@ -14,5 +14,7 @@ namespace OrderCookies.Models
         public int PastryId { get; set; }
         //Наименование теста
         public string PastryName { get; set; }
+        //Цена за 100 гр.
+        public int PastryPrice { get; set; }
     }
 }

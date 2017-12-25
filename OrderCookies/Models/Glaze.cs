@@ -14,5 +14,7 @@ namespace OrderCookies.Models
         public int GlazeId { get; set; }
         //Наименование глазури
         public string GlazeName { get; set; }
+        //Цена за 100 гр.
+        public int GlazePrice { get; set; }
     }
 }

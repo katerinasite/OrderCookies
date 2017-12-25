@@ -14,5 +14,7 @@ namespace OrderCookies.Models
         public int FillingId { get; set; }
         //Наименование начинки
         public string FillingName { get; set; }
+        //Цена за 100 гр.
+        public int FillingPrice { get; set; }
     }
 }
