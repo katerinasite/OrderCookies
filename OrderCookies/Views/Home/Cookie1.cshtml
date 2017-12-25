@@ -6,40 +6,41 @@
 <h2 class="hello">       
     Сахарное печенье &laquo;Зимняя сказка&raquo;
 </h2>
-    <div class="row">
+<div class="row">
     <div class="col-sm-4 forimages">
         <img id="myImg" src="~/Content/image/16.jpg" />
     </div>
-    @using (Html.BeginForm("MiddleOrderNew", "Home", FormMethod.Post, new { id = "cookie1" }))
-    {
-        <div class="number">
-            <button class="minus">-</button>
-            <input type="text" value="1" name="Number" id="Number" required pattern="^[0-9]+$" form="cookie1" />
-            <button class="plus">+</button>
+
+
+    <div class="col-sm-1">
+    </div>
+    <div class="col-sm-7 centertext">
+        <div>
+            <ul class="sometext">
+                <li>
+                    Диаметр: 40 см
+                </li>
+                <li>
+                    Цена: 200 руб./шт.
+                </li>
+            </ul>
+            <p class="sometext">
+                Вкуснейшее сахарное печенье с шоколадной начинкой и тематическим оформлением из белковой глазури перенесёт вас на мгновение в чудесную зимнюю сказку, подарит радость и новогоднее настроение!
+            </p>
         </div>
-            <input type="hidden" name="CookiesId" id="CookiesId" value="1" form="cookie1" />
-            <button class="btnOrder" type="submit">Добавить в корзину</button>
-    }
+
+    </div>
 </div>
-        <div class="col-sm-1">
-        </div>
-        <div class="col-sm-4 centertext">
-            <div>
-                <ul class="sometext">                  
-                    <li>
-                        Диаметр: 40 см
-                    </li>                   
-                    <li>
-                        Цена: 200 руб./шт.
-                    </li>
-                </ul>
-                <p class="sometext">
-                    Вкуснейшее сахарное печенье с шоколадной начинкой и тематическим оформлением из белковой глазури перенесёт вас на мгновение в чудесную зимнюю сказку, подарит радость и новогоднее настроение!
-                </p>
-            </div>
-
-        </div>
-
+@using (Html.BeginForm("MiddleOrderNew", "Home", FormMethod.Post, new { id = "cookie1" }))
+{
+    <div class="number">
+        <button class="minus">-</button>
+        <input type="text" value="1" name="Number" id="Number" required pattern="^[0-9]+$" form="cookie1" />
+        <button class="plus">+</button>
+    </div>
+        <input type="hidden" name="CookiesId" id="CookiesId" value="1" form="cookie1" />
+        <button class="btnOrder" type="submit">Добавить в корзину</button>
+}
  
 
 

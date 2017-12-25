@@ -81,5 +81,26 @@ namespace OrderCookies.Controllers
             context.MiddleOrders.Add(middleOrder);
             context.SaveChanges();
         }
+
+        public ActionResult FinalOrder()
+        {
+            ApplicationDbContext context = new ApplicationDbContext();
+            List<ApplicationUser> listuser = context.Users.ToList();
+            ApplicationUser user = listuser.Find(m => m.Email.Equals(User.Identity.Name));
+            List<FinalOrder> listfo = context.FinalOrders.ToList();
+            List<Cookies> listcookies = context.Cookies.ToList();
+            IEnumerable<MiddleOrder> listmi = context.MiddleOrders.ToList();
+            foreach(MiddleOrder middle in listmi)
+            {
+                middle.Cookies = listcookies.Last(m=>m.CookiesId.Equals(middle.CookiesId));
+            }
+            FinalOrder final = listfo.Last(m => m.ApplicationUserId.Equals(user.Id));
+            IEnumerable<MiddleOrder> listmiddle = listmi.Where(m => m.FinalOrderId.Equals(final.FinalOrderId));
+
+            ViewBag.ListMiddle = listmiddle;
+            ViewBag.FinalOrder = final;
+
+            return View();
+        }
     }
 }
