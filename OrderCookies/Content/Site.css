@@ -1,12 +1,15 @@
 ﻿body {
     padding-top: 50px;
-    background: #fae7af;
+    background-image: url(image/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 15px;
-    padding-right: 15px;
+    background: #f6eac7;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
@@ -25,7 +28,7 @@ textarea {
 
 .navbar-inverse {
     border-color: #eeeeee;
-    background: #e3ad49;
+    background: #f4d59b;
 }
 
 .hello {
@@ -35,17 +38,17 @@ textarea {
 }
 
 .hello1 {
-    font-family: serif;
+    font-family: Bradley Hand, cursive;
     font-size: large;
-    color: #0c0606;
+    color: #750909;
     text-align: center;
 }
 
 #myImg {
     width: 100%;
     float: right;
-    /* margin-left: 15px; */
-    /* margin-bottom: 10px; */
+    margin-left: 15px;
+    margin-bottom: 10px;
 }
 
 .btnOrder {
@@ -65,26 +68,26 @@ textarea {
     color: #830d0d;
     font-size: 20px;
     line-height: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Bradley Hand, cursive;
 }
 
 .navbar-inverse .navbar-nav > li > a {
     color: #830d0d;
     font-size: 20px;
     line-height: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Bradley Hand, cursive;
 }
 
 #myImgMainRight {
     margin-left: 15px;
     width: 100%;
-    max-width: 250px;
+    max-width: 2000px;
 }
 
 .sometext {
-    font-family: serif;
+    font-family: Bradley Hand, cursive;
     font-size: large;
-    color: #0c0606;
+    color: #750909;
     text-align: justify;
     margin-bottom: 1em;
     margin-top: 1em;
@@ -94,7 +97,7 @@ textarea {
 #myImgMainLeft {
     margin-right: 15px;
     width: 100%;
-    max-width: 250px;
+    max-width: 6000px;
 }
 
 .forimages {
@@ -106,28 +109,29 @@ footer li {
 }
 
 footer a {
-    color: black;
+    color: #750909;
 }
 
-    footer a:hover {
+footer a:hover {
         color: white;
     }
 
 footer {
-    background: #e3ad49;
+    background: #f4d59b;
     min-height: 100px;
 }
 
-    footer .sometext {
+footer .sometext {
         margin-bottom: 0;
         margin-top: 0;
-    }
+
+}
 
     footer ul {
         margin-top: 15px;
     }
 
-    footer .contacts {
+footer .contacts {
         font-family: serif;
         font-size: large;
         color: #c9464e;
@@ -179,3 +183,6 @@ footer {
         .ImgHover:hover button ~ .ImgHover button:hover {
             display: block;
         }
+
+
+

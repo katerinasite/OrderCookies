@@ -14,5 +14,7 @@ namespace OrderCookies.Models
         public int SpecialDesignId { get; set; }
         //Наименование
         public string Design { get; set; }
+        //Цена
+        public int DesignPrice { get; set; }
     }
 }

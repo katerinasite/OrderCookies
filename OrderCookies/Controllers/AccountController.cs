@@ -96,7 +96,7 @@ namespace OrderCookies.Controllers
             }
 
             return View(model);
-            
+
 
             // Сбои при входе не приводят к блокированию учетной записи
             // Чтобы ошибки при вводе пароля инициировали блокирование учетной записи, замените на shouldLockout: true

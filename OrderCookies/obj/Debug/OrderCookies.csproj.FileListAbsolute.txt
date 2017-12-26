@@ -455,7 +455,6 @@ D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_К
 D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.Security.Google.resources.dll
 D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
 D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.csprojResolveAssemblyReference.cache
 D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMigration.resources
 D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMigration1.resources
 D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.csproj.GenerateResource.Cache
@@ -463,97 +462,197 @@ D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_К
 D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.dll
 D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.pdb
 D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMig.resources
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ApplicationInsights.config
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\OrderCookies.dll.config
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\OrderCookies.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\OrderCookies.pdb
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Antlr3.Runtime.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\EntityFramework.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\EntityFramework.SqlServer.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.Web.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Newtonsoft.Json.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Owin.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.Helpers.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.Mvc.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.Optimization.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.Razor.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.WebPages.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.WebPages.Razor.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\WebGrease.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.Helpers.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.Mvc.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.Optimization.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.Razor.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.WebPages.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\System.Web.WebPages.Razor.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Antlr3.Runtime.pdb
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Newtonsoft.Json.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\EntityFramework.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\EntityFramework.SqlServer.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\Microsoft.AI.Web.xml
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\System.Web.Helpers.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\System.Web.Mvc.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\System.Web.Optimization.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\System.Web.Razor.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\System.Web.WebPages.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\System.Web.WebPages.Deployment.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\System.Web.WebPages.Razor.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\EntityFramework.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\EntityFramework.SqlServer.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.Google.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\obj\Debug\OrderCookies.csprojResolveAssemblyReference.cache
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMigration.resources
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMigration1.resources
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMig.resources
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\obj\Debug\OrderCookies.csproj.GenerateResource.Cache
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\obj\Debug\OrderCookies.csproj.CoreCompileInputs.cache
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\obj\Debug\OrderCookies.dll
-C:\Users\Emperor\.git\OrderCookies\OrderCookies\OrderCookies\obj\Debug\OrderCookies.pdb
+D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMig1.resources
+D:\Универ\4 курс\ИWEBС\Курсовой проект\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.csprojResolveAssemblyReference.cache
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ApplicationInsights.config
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\OrderCookies.dll.config
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\OrderCookies.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\OrderCookies.pdb
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Antlr3.Runtime.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\EntityFramework.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\EntityFramework.SqlServer.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.Web.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Newtonsoft.Json.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Owin.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.Helpers.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.Mvc.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.Optimization.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.Razor.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.WebPages.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.WebPages.Razor.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\WebGrease.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.Helpers.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.Mvc.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.Optimization.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.Razor.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.WebPages.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\System.Web.WebPages.Razor.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Antlr3.Runtime.pdb
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Newtonsoft.Json.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\EntityFramework.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\EntityFramework.SqlServer.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\Microsoft.AI.Web.xml
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\EntityFramework.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.csprojResolveAssemblyReference.cache
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMigration.resources
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMigration1.resources
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMig.resources
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMig1.resources
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.csproj.GenerateResource.Cache
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.dll
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.pdb
+C:\Users\Александра\Desktop\Универ\4 курс\1 семестр\ИWebс\OrderCookies_КОНЕЧНЫЙ\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMig2.resources
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ApplicationInsights.config
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\OrderCookies.dll.config
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\OrderCookies.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\OrderCookies.pdb
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Antlr3.Runtime.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\EntityFramework.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\EntityFramework.SqlServer.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.Web.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Newtonsoft.Json.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Owin.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.Helpers.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.Mvc.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.Optimization.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.Razor.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.WebPages.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.WebPages.Razor.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\WebGrease.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.Helpers.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.Mvc.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.Optimization.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.Razor.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.WebPages.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\System.Web.WebPages.Razor.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Antlr3.Runtime.pdb
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Newtonsoft.Json.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\EntityFramework.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\EntityFramework.SqlServer.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\Microsoft.AI.Web.xml
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\EntityFramework.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.csprojResolveAssemblyReference.cache
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMigration.resources
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMigration1.resources
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMig.resources
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMig1.resources
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.Migrations.MyMig2.resources
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.csproj.GenerateResource.Cache
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.dll
+C:\Users\Екатерина\Documents\GitHub\OrderCookies\OrderCookies\obj\Debug\OrderCookies.pdb

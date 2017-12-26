@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "FinalOrder";
+}
+
+<table class="table-bordered table-striped table-condensed table">
+    <thead>
+        <tr>
+            <th>
+                Номер
+            </th>
+            <th>
+
+            </th>
+            <th>
+
+            </th>
+            <th>
+
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{int i = 1; }
+        @foreach (OrderCookies.Models.MiddleOrder middle in ViewBag.ListMiddle)
+        {
+            <tr>
+                <td>
+                    @i
+                    @{ 
+                        i++;
+                    }
+                </td>
+                <td>
+                    @middle.Cookies.CookiesName
+                </td>
+                <td>
+                        qweq
+                </td>
+                <td>
+                    @middle.Number
+                </td>
+                <td>
+                    @middle.MiddleAmount
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
